@@ -101,7 +101,6 @@ Travis CI isn't just for running tests, there are many others things you can do 
 * send [notifications](/user/notifications/)
 
 ## Further Reading
-
 Read more about
 
 * [customizing your build](/user/customizing-the-build)
